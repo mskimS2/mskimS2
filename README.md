@@ -3,4 +3,3 @@
 </div>
 
 <br>
-- Military education and training: 2023.12.28 ~ 2024.01.18 
